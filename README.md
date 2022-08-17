@@ -1,0 +1,1 @@
+Boilerplate of a webpack loader on how to return html in a JavaScript function with a simple webpack loader 
